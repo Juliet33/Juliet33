@@ -1,21 +1,33 @@
 <h1>Hi, I'm Juliet! 
 
-<h2> 👩‍💻 About Me! <h2>
+<h4> 👩‍💻 About Me! <h4> 
+    <p style="font-size: 24px"> Hello, I'm Juliet, and welcome to my portfolio! As a multi-faceted professional, I am thrilled to showcase my expertise in the realms of Data Analysis, Low/No Code Development, and Cloud Computing. With a robust skill set encompassing Microsoft Excel, Power BI, Tableau, Python, R, SQL, and Servicenow System Administration, I bring a dynamic approach to data-driven insights and problem-solving. Additionally, my proficiency in the Microsoft Power Apps platform enables me to create innovative solutions with ease. Through this portfolio, I aim to demonstrate my passion for harnessing technology to drive efficiency, informed decision-making, and transformative growth. </p>
 
-<h2> 💻 Data Analysis Projects:</h2>
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+    
+  
+<h2> 📚 Certifications:</h2>
 
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/e04d0488-1459-42ef-a00a-a06295df6cda/public_url)
 - [KPMG Data Analytics Consulting Virtual Internship](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_chHa49NpHtvvZrd52_1645392183266_completion_certificate.pdf)
 - [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=892086)
-
-
-<h2>📚 Certifications </h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
