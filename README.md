@@ -13,7 +13,7 @@
   
 - <b>Tableau</b>
   - [Data Visualization of Covid Data (2020 - 2022)](https://public.tableau.com/app/profile/juliet.uadiale/viz/CovidDataExplorationFrom2020-2022/Dashboard1)
-  - [Customer Analysis For Sprocket Customer Analysis](https://public.tableau.com/app/profile/juliet.uadiale/viz/SprocketCustomerAnalysis/Dashboard1)
+  - [Customer Analysis For Sprocket Central Pty Ltd](https://public.tableau.com/app/profile/juliet.uadiale/viz/SprocketCustomerAnalysis/Dashboard1)
   - [Analysis of Seatle's AirBnB Market](https://public.tableau.com/app/profile/juliet.uadiale/viz/AnAnalysisofSeatlesAirbnbActivities/Dashboard1)
     
 - <b>Power BI</b>
