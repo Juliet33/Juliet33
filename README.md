@@ -1,9 +1,8 @@
-<h1>Hi, I'm Juliet! 
+<h1>👩🏽‍💻 About Me! <h1>
+<h4>
+    <p style="font-size: 24px"> Hi, I'm Juliet. I am thrilled to showcase my expertise in the realms of Data Analysis, Low/No Code Development, and Cloud Computing. With a robust skill set encompassing Microsoft Excel, Power BI, Tableau, Python, R, SQL, and Servicenow System Administration, I bring a dynamic approach to data-driven insights and problem-solving. Additionally, my proficiency in the Microsoft Power Apps platform enables me to create innovative solutions with ease. Through this portfolio, I aim to demonstrate my passion for harnessing technology to drive efficiency, informed decision-making, and transformative growth. </p> </h4>
 
-<h4> 👩‍💻 About Me! <h4> 
-    <p style="font-size: 24px"> As a multi-faceted professional, I am thrilled to showcase my expertise in the realms of Data Analysis, Low/No Code Development, and Cloud Computing. With a robust skill set encompassing Microsoft Excel, Power BI, Tableau, Python, R, SQL, and Servicenow System Administration, I bring a dynamic approach to data-driven insights and problem-solving. Additionally, my proficiency in the Microsoft Power Apps platform enables me to create innovative solutions with ease. Through this portfolio, I aim to demonstrate my passion for harnessing technology to drive efficiency, informed decision-making, and transformative growth. </p>
-
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>💻 Data Analysis Projects:</h2>
 
 - <b>R Language </b>
   - [Data Exploration, Transformation and Analysis of BellaBeat Customers](https://github.com/Juliet33/Bellabeat-Project).
