@@ -14,12 +14,13 @@
   - [Data Visualization of Covid Data (2020 - 2022)](https://public.tableau.com/app/profile/juliet.uadiale/viz/CovidDataExplorationFrom2020-2022/Dashboard1).
   - [KPMG Internship Project](https://github.com/Juliet33/Sprocket-Customer-Analysis).
   - [Analysis of Seatle's AirBnB Market](https://public.tableau.com/app/profile/juliet.uadiale/viz/AnAnalysisofSeatlesAirbnbActivities/Dashboard1).
-    
-- <b>Power BI</b>
    
 - <b>Python</b>
 
 - <b>Microsoft Power Platform</b>
+    + Power BI
+      
+    + Power Apps
   
   
 <h2> 📚 Certifications:</h2>
