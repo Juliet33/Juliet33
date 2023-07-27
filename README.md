@@ -15,13 +15,7 @@
   - [KPMG Internship Project](https://github.com/Juliet33/Sprocket-Customer-Analysis).
   - [Analysis of Seatle's AirBnB Market](https://public.tableau.com/app/profile/juliet.uadiale/viz/AnAnalysisofSeatlesAirbnbActivities/Dashboard1).
    
-- <b>Python</b>
 
-- <b>Microsoft Power Platform</b>
-    + Power BI
-      
-    + Power Apps
-  
   
 <h2> 📚 Certifications:</h2>
 
@@ -47,4 +41,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <b>Python</b> ...
+
+- <b>Microsoft Power Platform</b> ...
+    + Power BI ...
+      
+    + Power Apps ...
+  
 -->
