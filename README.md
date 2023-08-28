@@ -1,6 +1,6 @@
 <h1>👩🏽‍💻 About Me! <h1>
 <h4>
-    <p style="font-size: 24px"> Hi, I'm Juliet. I am thrilled to showcase my expertise in the realm of Data Analysis. With a robust skill set encompassing Microsoft Excel, Power BI, Tableau, Python, R, SQL, and Servicenow System Administration, I bring a dynamic approach to data-driven insights and problem-solving. Through this portfolio, I aim to demonstrate my passion for harnessing technology to drive efficiency, informed decision-making, and transformative growth. </p> </h4>
+    <p style="font-size: 24px"> Hi, I'm Juliet. An Accountant turned Data Analyst. I am thrilled to showcase my expertise in Data Analysis. With a robust skill set encompassing Accounting, Microsoft Excel, Power BI, Tableau, Python, R, SQL, I bring a dynamic approach to data-driven insights and problem-solving. Through this portfolio, I aim to demonstrate my passion for harnessing technology to drive efficiency, informed decision-making, and transformative growth. </p> </h4>
 
 <h2>💻 Data Analysis Projects:</h2>
 
