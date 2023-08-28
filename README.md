@@ -22,6 +22,7 @@
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/e04d0488-1459-42ef-a00a-a06295df6cda/public_url)
 - [KPMG Data Analytics Consulting Virtual Internship](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_chHa49NpHtvvZrd52_1645392183266_completion_certificate.pdf)
 - [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=892086)
+- ![Association of Accounting Technicians](./AATCertificate.png)
 
 <h2> 🤳 Connect with me:</h2>
 
